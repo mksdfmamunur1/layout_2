@@ -1,0 +1,122 @@
+/**{
+	margin: 0;
+	padding: 0;
+
+}*/
+
+body{
+	background-color: #88e8e3;
+}
+p{
+	text-align: center;
+	font-style: bold;
+	font-style: italic;
+	color: white;
+
+}
+.header{
+	overflow: hidden;
+	margin-bottom: 10px;
+	background-color: gray;
+}
+.logo{
+	min-height: 60px;
+	width: 20%;
+	float: left;
+	margin: 20px 5px;
+	background-color: black;
+}
+.nav{
+	min-height: 60px;
+	width: 50%;
+	float: right;
+	margin: 20px 5px;
+	background-color: black;
+}
+.banner{
+	overflow: hidden;
+	margin-bottom: 10px;
+	background-color: pink;
+}
+.center{
+	min-height: 200px;
+	margin: 100px auto;
+	width: 40%;
+	background-color: black;
+}
+.service{
+	overflow: hidden;
+	margin-bottom: 10px;
+	background-color: red;
+}
+.service1{
+	min-height: 280px;
+	width: 25%;
+	float: left;
+	background-color: black;
+	margin: 10px 1%;
+}
+.service2{
+	min-height: 280px;
+	width: 46%;
+	float: left;
+	background-color: black;
+	margin: 10px 0%;
+}
+.service3{
+	min-height: 280px;
+	width: 25%;
+	float: left;
+	background-color: black;
+	margin: 10px 1%;
+}
+/*.aside{
+	min-height: 600px;
+	width: 38%;
+	float: left;
+	background-color: orange;
+}
+.content{
+	min-height: 600px;
+	width: 59%;
+	float: right;
+	background-color: blue;
+
+}*/
+.footer{
+	overflow: hidden;
+	background-color: green;
+}
+.footer_left{
+	min-height: 50px;
+	width: 20%;
+	float: left;
+	background-color: black;
+	margin: 25px 10px;
+}
+.footer_right{
+	min-height: 50px;
+	width: 50%;
+	float: right;
+	margin: 25px 0px;
+}
+.footer_right1{
+	min-height: 50px;
+	margin-right: 18%;
+	width: 20%;
+	float: left;
+	background-color: black;
+}
+.footer_right2{
+	min-height: 50px;
+	width: 20%;
+	margin-right: 18%;
+	float: left;
+	background-color: black;
+}
+.footer_right3{
+	min-height: 50px;
+	width: 20%;
+	float: left;
+	background-color: black;
+}
